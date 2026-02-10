@@ -1,0 +1,45 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+Backend/shelter/.idea/modules.xml
+Backend/shelter/.idea/jarRepositories.xml
+Backend/shelter/.idea/compiler.xml
+Backend/shelter/.idea/libraries/
+Backend/shelter/*.iws
+Backend/shelter/*.iml
+Backend/shelter/*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+
+# Default .idea ignored files
+Backend/shelter/.idea/shelf/
+Backend/shelter/.idea/workspace.xml
+# Editor-based .idea HTTP Client requests
+Backend/shelter/.idea/httpRequests/
